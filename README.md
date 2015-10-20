@@ -1,11 +1,11 @@
 # SFPieChart
 Pie Chart iOS with precent label to present.
 
-This projs adapted from [@VBPieChart](https://github.com/sakrist/VBPieChart)(thx).
-Animated Pie Chart control for iOS apps, based on CALayer.
-Support to show precent value of each block in piechart.
+This projs adapted from [@VBPieChart](https://github.com/sakrist/VBPieChart)(thx).<br>
+Animated Pie Chart control for iOS apps, based on CALayer.<br>
+Support to show precent value of each block in piechart.<br>
 
-<img src="https://github.com/Smallfan/SFPieChart/blob/master/Screenshot.png">
+<img src="https://github.com/Smallfan/SFPieChart/blob/master/Screenshot.png"><br>
 
 
 Usage
