@@ -14,7 +14,6 @@
 		C44A2E571BD6326700451946 /* SFPiePiece.m in Sources */ = {isa = PBXBuildFile; fileRef = C44A2E4D1BD6326700451946 /* SFPiePiece.m */; settings = {ASSET_TAGS = (); }; };
 		C44A2E581BD6326700451946 /* UIColor+HexColor.m in Sources */ = {isa = PBXBuildFile; fileRef = C44A2E4F1BD6326700451946 /* UIColor+HexColor.m */; settings = {ASSET_TAGS = (); }; };
 		C44A2E591BD6326700451946 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C44A2E511BD6326700451946 /* ViewController.m */; settings = {ASSET_TAGS = (); }; };
-		C44A2E9C1BD6331E00451946 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C44A2E9B1BD6331E00451946 /* Assets.xcassets */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,7 +46,6 @@
 		C44A2E4F1BD6326700451946 /* UIColor+HexColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HexColor.m"; sourceTree = "<group>"; };
 		C44A2E501BD6326700451946 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = SFPieChart/ViewController.h; sourceTree = SOURCE_ROOT; };
 		C44A2E511BD6326700451946 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = SFPieChart/ViewController.m; sourceTree = SOURCE_ROOT; };
-		C44A2E9B1BD6331E00451946 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../SFPieChart/Assets.xcassets; sourceTree = "<group>"; };
 		C45D3FCA1BD5D44D005A1C3D /* SFPieChart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SFPieChart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C45D3FE31BD5D44D005A1C3D /* SFPieChart.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SFPieChart.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C45D3FEE1BD5D44D005A1C3D /* SFPieChart.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SFPieChart.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -117,7 +115,6 @@
 				C44A2E441BD6326700451946 /* AppDelegate.m */,
 				C44A2E501BD6326700451946 /* ViewController.h */,
 				C44A2E511BD6326700451946 /* ViewController.m */,
-				C44A2E9B1BD6331E00451946 /* Assets.xcassets */,
 				C44A2E471BD6326700451946 /* Info.plist */,
 				C44A2E491BD6326700451946 /* SFPieChart */,
 				C45D3FCD1BD5D44D005A1C3D /* Supporting Files */,
@@ -237,7 +234,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C44A2E9C1BD6331E00451946 /* Assets.xcassets in Resources */,
 				C44A2E541BD6326700451946 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,7 +1,7 @@
 # SFPieChart
 Pie Chart iOS with precent label to present.
 
-This projs adapted from [@VBPieChart](https://github.com/sakrist/VBPieChart)(thx).<br>
+This proj adapted from [@VBPieChart](https://github.com/sakrist/VBPieChart)(thx).<br>
 Animated Pie Chart control for iOS apps, based on CALayer.<br>
 Support to show precent value of each block in piechart.<br>
 
@@ -12,7 +12,7 @@ Usage
 -----
 
 _chartView = [[SFPieChart alloc] init];<br>
-[_chartView setFrame:CGRectMake(0, 0, 220, 220)];
+[_chartView setFrame:CGRectMake(0, 0, 220, 220)];<br>
 [_chartView setCenter:CGPointMake(self.view.frame.size.width / 2, self.view.frame.size.height / 2)];<br>
 [_chartView setEnableStrokeColor:NO];<br>
 [_chartView setHoleRadiusPrecent:0.55];<br>
